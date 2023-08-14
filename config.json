@@ -1,17 +1,17 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
+        "source": "https://github.com/devilxsam/File-Sharing-Bot.git",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "6542713865:AAG1-octzYBUydv7NT1IpP62HXAyUf8gOhY"
         },
-        "run": ""
+        "run": "main.py"
     },
     "bot2": {
-        "source": "https://github.com/<GitHub Username>/<repo2>.git",
+        "source": "https://github.com/devilxsam/Link-Bypasser-Bot.git",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "6221665005:AAGtHjd1pDv2PlcF3OJk_FvdSd62MAzHjFU"
         },
-        "run": ""
+        "run": "main.py"
     },
     "bot3": {
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
