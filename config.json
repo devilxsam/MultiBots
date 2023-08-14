@@ -2,15 +2,20 @@
     "bot1": {
         "source": "https://github.com/devilxsam/File-Sharing-Bot.git",
         "env": {
-            "TOKEN": "6542713865:AAG1-octzYBUydv7NT1IpP62HXAyUf8gOhY"
-        },
-        "run": "main.py"
-    },
-    "bot2": {
-        "source": "https://github.com/devilxsam/Link-Bypasser-Bot.git",
-        "env": {
-            "TOKEN": "6221665005:AAGtHjd1pDv2PlcF3OJk_FvdSd62MAzHjFU"
-        },
+    "TOKEN": "6221665005:AAGtHjd1pDv2PlcF3OJk_FvdSd62MAzHjFU",
+    "ID": "12637827",
+    "HASH": "bd6f6b7a42292b9f165ae75c55bdf11f",
+    "Laravel_Session": "",
+    "XSRF_TOKEN": "",
+    "GDTot_Crypt": "b0lDek5LSCt6ZjVRR2EwZnY4T1EvVndqeDRtbCtTWmMwcGNuKy8wYWpDaz0%3D",
+    "DCRYPT": "cnhXOGVQNVlpeFZlM2lvTmN6Z2FPVWJiSjVBbWdVN0dWOEpvR3hHbHFLVT0%3D",
+    "KCRYPT": "a1V1ZWllTnNNNEZtbkU4Y0RVd3pkRG5UREFJZFlUaC9GRko5NUNpTHNFcz0%3D",
+    "HCRYPT": "N25hV1pxMXZWUTdFWEh6L2Q2WFJyQWo2NGJEcWN6R2E5ci91aG8zSFF5Zz0%3D",
+    "KATCRYPT": "bzQySHVKSkY0bEczZHlqOWRsSHZCazBkOGFDak9HWXc1emRTL1F6Rm9ubz0%3D",
+    "UPTOBOX_TOKEN":"4a4ecf35552fea876da1d63e7fd000d2cb2fo",
+    "TERA_COOKIE":"YQOR7exteHuiC7XNl_TAD_ZaXGexSokJJwoblC4S",
+    "CLOUDFLARE":"do2URzJ0skALq4Tu20ScjmohhG8dCj9r2wDTVdIeZmI-1690012896-0-160.2.1690012896"
+},
         "run": "main.py"
     }
 }
