@@ -12,12 +12,5 @@
             "TOKEN": "6221665005:AAGtHjd1pDv2PlcF3OJk_FvdSd62MAzHjFU"
         },
         "run": "main.py"
-    },
-    "bot3": {
-        "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": ""
     }
 }
