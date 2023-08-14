@@ -1,6 +1,6 @@
 {   
     "bot1": {
-        "source": "https://github.com/devilxsam/File-Sharing-Bot.git",
+        "source": "https://github.com/devilxsam/LBB.git",
         "env": {
     "TOKEN": "6221665005:AAGtHjd1pDv2PlcF3OJk_FvdSd62MAzHjFU",
     "ID": "12637827",
